@@ -18,5 +18,6 @@ This Project is for beginers to understand the fullstack tehnology (.Net Core & 
 # For Database Setup and connection
  For Databse there is DB folder, you simply import this databse in your Sql Server.
  
-# To connect your SQL Server with your web API, you have to opn you web API folder in your visual studio and edit the DevConnection's value located in ConnectionString in appsettings.json file 
+ # Databse Creation and Connect DB with WEB API
+ To connect your SQL Server with your web API, you have to opn you web API folder in your visual studio and edit the DevConnection's value located in ConnectionString in         appsettings.json file 
   Edit your server name and your ID Password if you have set in your SQL Server.
