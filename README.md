@@ -12,7 +12,7 @@ This Project is for beginers to understand the fullstack tehnology (.Net Core & 
  
  # Node module installation
  To setup this project in your system simpe download the code and then in visual studio code you simple run command.
- npm install
+ " npm install "
  after successfully run this command all node modules are installed in your project which are required.
 
 # For Database Setup and connection
